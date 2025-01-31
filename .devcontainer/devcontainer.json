@@ -1,0 +1,9 @@
+{
+  "name": "Terraform Practice",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  }
+}
